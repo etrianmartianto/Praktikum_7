@@ -15,7 +15,7 @@ Algoritma
 8. Print nilai b sesudah nilai a
 9. Selesai
 
-
+```
 Berikut Programnya
 
 
@@ -76,7 +76,7 @@ perulangan for
 }
 8. Tampilkan hasil
 9. Selesai
-
+```
 
 Berikut Programnya
 
