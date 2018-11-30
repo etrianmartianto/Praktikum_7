@@ -15,7 +15,7 @@ Algoritma
 8. Print nilai b sesudah nilai a
 9. Selesai
 
-```
+
 Berikut Programnya
 
 
@@ -33,7 +33,7 @@ Berikut Programnya
 
 
 
-```
+
 Berikut FlowChartnya
 
 
@@ -77,7 +77,7 @@ perulangan for
 8. Tampilkan hasil
 9. Selesai
 
-```
+
 Berikut Programnya
 
 
@@ -95,7 +95,7 @@ Berikut Programnya
 
 
 
-```
+
 Berikut FlowChartnya
 
 
